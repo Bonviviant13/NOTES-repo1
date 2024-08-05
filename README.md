@@ -264,3 +264,10 @@ Node name inf
 
 ![image](https://github.com/user-attachments/assets/6038bb57-777f-49c3-aaef-129b6d8fa4ca)
 
+todo -list  
+
+git ka cheat sheet 
+jenkins how many practical performed 
+
+Q) Diffrence between container and instance ?
+
