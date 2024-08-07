@@ -266,7 +266,12 @@ Node name inf
 
 todo -list  
 
+
 git ka cheat sheet 
+
+Q) run and cmd diffrence ?
+
+
 jenkins how many practical performed 
 
 Q) Diffrence between container and instance ?
