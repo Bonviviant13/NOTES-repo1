@@ -276,3 +276,7 @@ jenkins how many practical performed
 
 Q) Diffrence between container and instance ?
 
+
+sevice pvc and pv should practice to know statefullset
+
+
